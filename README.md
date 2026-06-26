@@ -8,7 +8,7 @@
 * 作者：DeepSeek
 
 ## 安装
-[GreasyFork]()
+[GreasyFork](https://greasyfork.org/zh-CN/scripts/546547-b%E7%AB%99%E7%A6%81%E7%94%A8richpip%E7%94%BB%E4%B8%AD%E7%94%BB)
 
 ## 源码
 [GitHub](https://github.com/Xyc1596/bilibili-no-richpip)
